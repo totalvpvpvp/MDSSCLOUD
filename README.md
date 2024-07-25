@@ -8,7 +8,7 @@
 
 机场支持SS协议，可用于解锁Netflix等流媒体服务。
 
-节点特性包括IEPL、CC、BGP、AIA专线、Anycast（腾讯）以及SDWAN（内网专线稳定、无QoS等级、延迟极低）11。
+节点特性包括IEPL、CC、BGP、AIA专线、Anycast（腾讯）以及SDWAN（内网专线稳定、无QoS等级、延迟极低）111。
 
 基于自有专线资源托管服务，总冗余10Gbps，该订阅最大可突发3000Mbps业务带宽，具有强大SLA保证。
 
