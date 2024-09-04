@@ -1,6 +1,6 @@
 # MDSSCLOUD官网地址
 
-最新地址：[https://tz.059950.xyz](https://tz.059950.xyz)
+最新地址：[https://t.192291.xyz](https://t.192291.xyz)
 
 ## MDSSCLOUD机场介绍
 
